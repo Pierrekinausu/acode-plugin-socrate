@@ -1,0 +1,11 @@
+{
+  "id": "com.socrate.groq.assistant",
+  "name": "Socrate AI",
+  "version": "1.0.0",
+  "author": "Socrate",
+  "description": "L'assistant Socrate propulsé par Groq pour analyser ton code gratuitement.",
+  "icon": "icon.png",
+  "main": "main.js",
+  "readme": "README.md",
+  "minPreviewSize": 1
+}
